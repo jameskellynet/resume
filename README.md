@@ -2,6 +2,8 @@ resume
 ======
 *About James*
 
+![alt text](https://github.com/jameskellynet/resume/blob/master/james.jpg "")
+
 ##### Contact
 james (at) jameskelly.net<br/>
 San Jose, CA<br/>
@@ -11,6 +13,8 @@ http://jameskelly.net/catchme<br/>
 
 in a hashtag
 ------------
+
+![alt text](https://github.com/jameskellynet/resume/blob/master/venn.png "")
 
 ##### \#businessman
 
