@@ -70,40 +70,50 @@ professional
 
 ##### JUNIPER NETWORKS
 ***Product Management Senior Director – Cloud and DC Business, March 2020 – Current***
+
 Lead 10 product managers/developers responsible for the company’s AI cluster solution, DC automation tools, and a cloud-native networking and security product; led the construction of a multi-million $ AI lab for network R&D, testing, benchmarking and demos; rebooted and retired products and acquired one: Apstra; forged alliance partners; achieved 8 figures in our direct product’s annual revenue while supporting solutions to drive new heights in 9-figure DC business overall
 
 ***Marketing Director – Enterprise Multicloud Product Marketing, October 2017 – March 2020***
+
 Managed team of 8 covering DC, WAN, campus, branch, and network automation; ran many launches, content blitzes, open-source projects, customer and partner engagements; supported demand generation campaigns, sales, competitive intel
 
 ***Lead Cloud Architect and PMM - Product and Solution Marketing, March 2013 – October 2017***
+
 Spokesperson; prolific blogger and content creator; channel/alliance bizdev; DevOps/Kubernetes demo’r and sales support
 
 ***Sr. Architect and SDN Product Manager - Software and Solutions Division, April 2012 – March 2013***
+
 Solution architect on new-products team of 3 reporting to divisional EVP for portfolio strategy and communications for SDN and NFV; customer and competitive analysis; M&A/partner strategy, technical due diligence on $176M SDN acquisition
 
 ***Principal TME and Developer Advocate, Software Business Unit, December 2006 – March 2012***
+
 Lead ~50 trainings covering ~1000 people; supplement marketing, PLM, sales, tech pubs; create and demo code and tools
 
 
 
 ##### CONSULTING
 **Advisory CIO, April 2014 – January 2015**
+
 IT enterprise architecture refresh and automation strategy; cloud and sourcing partnerships; migration to SaaS and Azure IaaS; migration to PaaS-first development; fix IT relations with business and executive team, WAN update, new office buildout 
 
 **Marketing Executive Consultant, September 2010 – December 2010**
+
 Corporate values and brand image; customer research; overhaul web/social/community management; staffing and training for hand-off to new marketing lead; hired and led team of two partners help me fulfill the contract
 
 
 **Technology Consultant, April 2006 – December 2006**
+
 Soup-to-nuts tech for a small startup; web & e-com development, database; systems and network admin and hosting setup
 
 
 
 ##### APPENDIX
 **CEO at Kelly Capital Management, January 2006 – August 2010**
+
 Oversaw subsidiary hedge funds in private investments. Managed financial, sales, tech, legal staff. Form investment partners.
 
 ***Three Developer Stints (CSIS Canada, Nokia in partnership with Carleton SCS, Ross Video), May 2004 – December 2006***
+
 Embedded real-time video systems development in C and C++; networking security research in IDS/IDP signature matching data structures & algorithms; anomaly learning & detection; various projects in the Linux kernel; Java; Perl; cryptography
 
 **Prologue:** Various jobs in sales, customer service, acting & modeling, Java and web development, Yoga & skiing instruction
