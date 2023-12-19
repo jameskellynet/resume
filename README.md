@@ -6,7 +6,7 @@ resume
 
 ##### Contact
 james (at) jameskelly.net<br/>
-San Jose, CA<br/>
+Tampa, FL<br/>
 http://jameskelly.net/catchme<br/>
 
 > **IDEAL MATCH** You make bold, meaningful technology products, differentiated by excellence, innovation and taste
@@ -18,89 +18,95 @@ in a hashtag
 
 ##### \#businessman
 
-* business innovator
 * people leader
 * team integrator
-* sales enabler
+* strategy innovator
+* multifaceted manager
 * product developer
 * solutions-driven marketer
-* strategic alliances forger
+* alliances forger
 * finance maverick
-* killer-instinct seller
-* audacious entrepreneur
+* instinctive seller
 * customer empathizer
+* audacious entrepreneur
 * mission planner
+
 
 ##### \#technologist
 
 * early adopter
-* cio thinker
-* cloud evangelist
-* sdn architect
+* AI cluster architect
+* cloud-native evangelist
+* root-cause regardful
 * software engineer
-* open source contributor
-* hands-dirty inventor
-* vm/container expert
+* open-source contributor
+* hands-dirty hacker
+* networking expert
 * devops automater
-* security hacker
-* web 2.0 enthusiast
-* programming guru
+* security minded
+* web & graphics couturier
 * experienced advisor
+
 
 ##### \#artist
 
-* off-mat yoga practitioner
+* digital designer
 * mindful organizer
 * outside-the-box thinker
 * star spokesperson
+* demo director
 * caring instructor
-* digital designer
 * critical thinker
-* beauty influencer
+* design influencer
 * initiative taker
 * curious questioner
-* life lover
+* off-mat yoga practitioner
+* adventure lover
+
 
 
 professional
 ------------
 
 ##### JUNIPER NETWORKS
-**Lead Cloud Evangelist in Solutions & Product Marketing Team, March 2013 – Current**
-Sales enablement; Cloud technology alliances BD, Diverse speaking engagements, Inbound solutions marketing, SDN subject matter expert, competitive analysis, field technical and soft-skills training and consulting
+***Product Management Senior Director – Cloud and DC Business, March 2020 – Current***
+Lead 10 product managers/developers responsible for the company’s AI cluster solution, DC automation tools, and a cloud-native networking and security product; led the construction of a multi-million $ AI lab for network R&D, testing, benchmarking and demos; rebooted and retired products and acquired one: Apstra; forged alliance partners; achieved 8 figures in our direct product’s annual revenue while supporting solutions to drive new heights in 9-figure DC business overall
 
-**SDN Sr. Architect and Business Developer in Software and Solutions Division, April 2012 – March 2013**
-Solution architect on research team of 3 reporting to divisional EVP for portfolio strategy and communications for SDN and NFV, Customer research, Competitive analysis for m&a and partnerships, New-business idea man
+***Marketing Director – Enterprise Multicloud Product Marketing, October 2017 – March 2020***
+Managed team of 8 covering DC, WAN, campus, branch, and network automation; ran many launches, content blitzes, open-source projects, customer and partner engagements; supported demand generation campaigns, sales, competitive intel
 
-**Lead TME and SDK Developer Evangelist, Software Business Unit, December 2006 – March 2012**
-Lead SDK trainings and instructional design, manage TME team, Technical in/out-bound marketing, Develop SDK-applications and automations, Assist 3rd-party devs, Consult to developer product marketing, communications and tech-pubs
+***Lead Cloud Architect and PMM - Product and Solution Marketing, March 2013 – October 2017***
+Spokesperson; prolific blogger and content creator; channel/alliance bizdev; DevOps/Kubernetes demo’r and sales support
+
+***Sr. Architect and SDN Product Manager - Software and Solutions Division, April 2012 – March 2013***
+Solution architect on new-products team of 3 reporting to divisional EVP for portfolio strategy and communications for SDN and NFV; customer and competitive analysis; M&A/partner strategy, technical due diligence on $176M SDN acquisition
+
+***Principal TME and Developer Advocate, Software Business Unit, December 2006 – March 2012***
+Lead ~50 trainings covering ~1000 people; supplement marketing, PLM, sales, tech pubs; create and demo code and tools
+
 
 
 ##### CONSULTING
 **Advisory CIO, April 2014 – January 2015**
-IT enterprise architecture refresh and automation strategy, New public/private/hosted cloud sourcing partnerships, Migration to SaaS and Azure IaaS, Migration to PaaS-first development, Update reporting to lines of business and executive team, WAN update, Bringing up new offices, Financial legal compliance, IT change management
+IT enterprise architecture refresh and automation strategy; cloud and sourcing partnerships; migration to SaaS and Azure IaaS; migration to PaaS-first development; fix IT relations with business and executive team, WAN update, new office buildout 
 
 **Marketing Executive Consultant, September 2010 – December 2010**
-Corporate values and brand image, Customer research, Overhaul web/social/community management, Staffing and training for hand-off to new marketing staff, (while I led and won this account, I had a partner help me fulfill my consulting duties)
+Corporate values and brand image; customer research; overhaul web/social/community management; staffing and training for hand-off to new marketing lead; hired and led team of two partners help me fulfill the contract
+
 
 **Technology Consultant, April 2006 – December 2006**
-Soup-to-nuts tech for a small startup, Web & e-com development, Database, systems and network admin and hosting setup
+Soup-to-nuts tech for a small startup; web & e-com development, database; systems and network admin and hosting setup
+
 
 
 ##### APPENDIX
 **CEO at Kelly Capital Management, January 2006 – August 2010**
-Founder, Oversaw all subsidiary hedge funds in tech investments, Staffed and managed financial and sales staff and consultants, Built legal and financial partnerships
+Oversaw subsidiary hedge funds in private investments. Managed financial, sales, tech, legal staff. Form investment partners.
 
-**Developer Staff at Ross Video, September 2006 – December 2006**
-Embedded real-time video systems development in C and C++
+***Three Developer Stints (CSIS Canada, Nokia in partnership with Carleton SCS, Ross Video), May 2004 – December 2006***
+Embedded real-time video systems development in C and C++; networking security research in IDS/IDP signature matching data structures & algorithms; anomaly learning & detection; various projects in the Linux kernel; Java; Perl; cryptography
 
-**Network Security Researcher at ALU (now Nokia) in partnership with Carleton SCS, May 2004 – April 2006**
-IDS signature matching data structures & algorithms, Anomaly learning & detection, Projects in the Linux kernel, C, Java, Perl
-
-**Developer Staff at CSIS Canada, May 2003 – August 2003 and May 2004 – Sept 2004**
-Real-time and historic network events analysis, Cryptography, Deep-packet inspection/monitoring algorithms in FreeBSD
-
-**Archive:** Sales, Customer service, Acting & modeling, Java and web development, Yoga & skiing instruction
+**Prologue:** Various jobs in sales, customer service, acting & modeling, Java and web development, Yoga & skiing instruction
 
 
 learned
@@ -113,66 +119,72 @@ Executive Business Classes: 2011 – Current
 2006 Master Computer Science, 2004 Bachelor Computer Science and Business
 
 ##### APPENDIX
-Yoga Teaching Certificate,  Sommelier Certificate, CCNA, and other business, professional speaking, and tech courses
+Yoga Teaching Certificate, Sommelier Certificate, CCNA, and other business, professional speaking, and tech courses
 
 
 tech-ware
 ---------
 
 ##### CURRENT & EXCITING TO WORK WITH
-* OpenStack and VMware cloud infrastructure architecture
-* Docker and Kubernetes for public or private cloud PaaS
-* Cloud-native applications for IoT and big-data uses
-* Public cloud IaaS/PaaS with GCP, AWS, Azure, Rackspace
-* Public SaaS migration/IT use with Msft 365 and SFDC
-* OpenContrail, OpenDaylight for cloud SDN and NFV
-* Presentation, document, graphic design tools
-* Open source software and hardware projects like OCP
-* Developer evangelism and training
+* AI / ML infrastructure architecture for training / inference
+* Use and customization of AI in IT ops and business
+* Multicloud Kubernetes / OpenShift and especially their networking and security with and without service mesh
+* Open source, GitHub, GitLab, and GitOps in IT
+* DevOps and infrastructure as code with Terraform
+* Multi-vendor network routing, switching, security tools
+* Multicloud IaaS/PaaS with GCP, AWS, Azure
+* Presentation, document, video and graphic design tools
 
-##### USEFUL CLASSICS
-* Cisco & Juniper routing, switching, security, architecture
-* Programming in C, C++, Java and now hacking in Go
+##### CLASSICS WITH WHICH I HAVE EXPERIENCE
+* Programming in C, C++, Java, Go, dabbled in Python
+* Dev practices and tools IDEs like VScode, Copilot, Eclipse
+* OpenStack and VMware cloud infrastructure architecture
 * Distributed, concurrent and real-time programming
 * Enterprise and carrier network design and operations
-* OS admin and automation with FreeBSD, Linux, Windows
+* Ansible various sysadmin automation for Linux / Windows
 * Firewalling, IDP, VPN, AAA and identity management tools
 * Security hacking and research on attacks
-* DB design, admin, programming: Cassandra, MySQL, Msft
-* Web design, JavaScript programming, JavaEE w/ Tomcat
-* Writing for research, documentation, tutorials, blogs
-* Development practices: git, cvs, svn, review tools
+* DB design, admin, programming with NoSQL, MySQL
+* Web design, JavaScript programming, JavaEE
+* Development practices: git, review tools
+
 
 
 biz-ware
 --------
 
-##### CURRENT & EXCITING TO WORK WITH
-* Salesforce enablement, training, consulting
-* Alliances and partnerships business development
-* Product development and business modelling
-* Leadership and human psychology
-* Organizational behavior and management
-* Impactful presentation pitching and slides
-* Solution and product marketing and positioning
-* Sales and negotiations with businesses and consumers
-* Communications with public, media, analysts
 
-##### USEFUL CLASSICS
+##### CURRENT & EXCITING TO WORK WITH
+* People leadership and psychology
+* Technology product development prioritization and tools
+* Product strategy and market modelling
+* Product and solutions marketing
+* Product and solutions competitive analysis
+* Salesforce enablement, training, consulting
+* Impactful presentation pitching and slide craft
+* Communications with public, media, analysts
+* Using GenAI for content, analysis, summarization
+
+##### CLASSICS WITH WHICH I HAVE EXPERIENCE
+* Organizational behavior and management
+* Sales and negotiations with individuals and vendors
+* Alliances and partnerships business development
 * Marketing and advertising automation and testing
-* Branding, social, corporate marketing
+* Branding, social, and corporate marketing
+* Writing for executives, research, documentation and more
+* Fundraising, organizing, promoting live events with 100s
 * Financial and managerial accounting, budgeting
 * Business law and incorporation
 * Personal and business finance and investing
 * Equities charting and technical analysis
-* Fundraising for events and charity
+
 
 
 wins
 ----
 
 * In my role at Juniper, I led dozens of live and video trainings for our field and customers, impacting hundreds. I even spoke at the all-hands to 10,000!
-* > 30 countries visited and lived in 4
+* > 40 countries visited and lived in 4
 * I won 5 scholarships through university, and a medal for being in the top 3 of my graduating class.
 * Black belt in Tae Kwon Do
  
@@ -181,42 +193,45 @@ lifestyle
 ---------
 
 ##### THINGS I :heart:
+* Family... married with children
 * Technology tinkering and inventing
 * Gastronomy and oenology
 * Meditation and yoga
 * Hiking, running, skiing, snowboarding, soccer, hockey
+* Kayaking and SUP
 * Acoustic finger-style guitar
-* Business and personal development audiobooks
-* Photography: taking and editing
-* Challenge and adventure!
+* Investing and cultural audiobooks and podcasts
+* Photography: shooting and editing
+* Challenge and adventure at work
+
+
 
 
 story
 -----
 
-* Vancouver grown with a love for the wild outdoors :evergreen_tree:
-* Fluent in French since living in Belgium in ’99 :earth_africa:
-* Wellness entrepreneur and vegan-flexitarian since ’00 :herb:
-* Master Comp Sci and Business degrees at the top of the class :trophy:
-* Founder of private hedge/mutual funds and finance company :chart_with_upwards_trend:
-* Deepening in tech as a developer evangelist & trainer :computer:
-* Pursued a sommelier certification for the love of it :wine_glass:
-* Move to silicon valley in ‘10 :us:
-* Advisory CIO for friend’s finance conglomerate of ~1000 employees :office:
-* Finished yoga teacher certification ‘14 :feet:
-* Returned to San Jose 11/14/16 after a 2-month stint working remotely from Paris :fr:
+* Vancouver grown with a love for family, the wild outdoors, many sports, and academic excellence
+* Fluent in French since living in Belgium in ’99
+* Master Comp Sci and Business degrees at the top of the class
+* Founder of private hedge funds and finance company with family/friends
+* Deepening in tech as a developer evangelist, and eventual marketer, product, and team leader
+* Pursued a sommelier certification for the love of it
+* Move to silicon valley in 2010
+* Pursued a yoga teacher certification 2014
+* Returned to San Jose, CA after a 2-month stint working remotely from Paris
+* Married the love of my life in Hanoi, Vietnam, acquiring a daughter in the process
+* Relocated to Tampa, FL to enjoy a lifestyle on the water and build a custom family home
+
 
 imagine
 -------
->Imagine a force, not for the good, but for the remarkable.<br/>
->Imagine smiling at each failure as a step to future success.<br/>
->Imagine us together, working with passion and having fun doing it.<br/>
+>Imagine a force, more than for the good, for the remarkable.<br/>
+>Imagine bias for action while bringing others along.<br/>
+>Imagine optimistically smiling at each difficulty as a step to future success.<br/>
+>Imagine a team leader and player, working with passion and fostering fun doing it.<br/>
 >Imagine meaningful, inspirational and challenging missions, drawing out our greatness.<br/>
 ><br/>
->I want to start.<br/>
->I want to share.<br/>
->I want to change the world, and…<br/>
->I want to do it with you too.<br/>
+>Imagine that my resume is just a taste. For more detail, please see the links below...><br/>
 
 <br/><br/>
 *the whole nine yards at:  http://linkedin.com/in/jamesakelly*
